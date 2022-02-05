@@ -13,7 +13,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" height="150" alt="Rafa-pic" style="border-radius:50px;" src="https://twitter.com/chottomikasa/status/1490005337394618374?s=20&t=sHCwo1aH9hALFhldGSzQ5g">
+  <img align="right" height="150" alt="Susu-pic" style="border-radius:50px;" src="C:\Users\Suzana\Downloads\Design_sem_nome">
 </div>
   
   ##
