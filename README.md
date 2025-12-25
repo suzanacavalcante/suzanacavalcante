@@ -27,9 +27,7 @@ Sou apaixonada por tecnologia e adoro transformar ideias em código. Atualmente,
 </div>
 
 ###
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/suzanacavalcante/suzanacavalcante/output/snake.svg" alt="Snake animation" />
 ###
 
 ---
