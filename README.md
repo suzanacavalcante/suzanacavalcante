@@ -28,7 +28,6 @@ Sou apaixonada por tecnologia e adoro transformar ideias em código. Atualmente,
 
 ###
 <img src="https://raw.githubusercontent.com/suzanacavalcante/suzanacavalcante/output/snake.svg" alt="Snake animation" />
-###
 
 ---
 
