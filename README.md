@@ -26,6 +26,12 @@ Sou apaixonada por tecnologia e adoro transformar ideias em código. Atualmente,
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+###
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+###
+
 ---
 
 ### 📫 Como me encontrar
